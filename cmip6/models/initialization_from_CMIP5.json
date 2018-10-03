@@ -1,0 +1,94 @@
+{
+    "giss-e2-1-g": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
+        "aerosol": {
+            "initializedFrom": ""
+        }, 
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "atmoschem": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }
+    }, 
+    "giss-e2-1-h": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
+        "aerosol": {
+            "initializedFrom": ""
+        }, 
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "atmoschem": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }
+    }, 
+    "giss-e2-1-ma-g": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
+        "aerosol": {
+            "initializedFrom": ""
+        }, 
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "atmoschem": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }
+    }, 
+    "giss-e3-g": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
+        "aerosol": {
+            "initializedFrom": ""
+        }, 
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "atmoschem": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "giss-e2-1-g": {
+        "toplevel": {
+            "publish": "off"
+        }, 
+        "aerosol": {
+            "publish": "off"
+        }, 
+        "atmos": {
+            "publish": "off"
+        }, 
+        "atmoschem": {
+            "publish": "off"
+        }, 
+        "land": {
+            "publish": "off"
+        }, 
+        "ocean": {
+            "publish": "off"
+        }, 
+        "seaice": {
+            "publish": "off"
+        }
+    }, 
+    "giss-e2-1-h": {
+        "toplevel": {
+            "publish": "off"
+        }, 
+        "aerosol": {
+            "publish": "off"
+        }, 
+        "atmos": {
+            "publish": "off"
+        }, 
+        "atmoschem": {
+            "publish": "off"
+        }, 
+        "land": {
+            "publish": "off"
+        }, 
+        "ocean": {
+            "publish": "off"
+        }, 
+        "seaice": {
+            "publish": "off"
+        }
+    }, 
+    "giss-e2-1-ma-g": {
+        "toplevel": {
+            "publish": "off"
+        }, 
+        "aerosol": {
+            "publish": "off"
+        }, 
+        "atmos": {
+            "publish": "off"
+        }, 
+        "atmoschem": {
+            "publish": "off"
+        }, 
+        "land": {
+            "publish": "off"
+        }, 
+        "ocean": {
+            "publish": "off"
+        }, 
+        "seaice": {
+            "publish": "off"
+        }
+    }, 
+    "giss-e3-g": {
+        "toplevel": {
+            "publish": "off"
+        }, 
+        "aerosol": {
+            "publish": "off"
+        }, 
+        "atmos": {
+            "publish": "off"
+        }, 
+        "atmoschem": {
+            "publish": "off"
+        }, 
+        "land": {
+            "publish": "off"
+        }, 
+        "ocean": {
+            "publish": "off"
+        }, 
+        "seaice": {
+            "publish": "off"
+        }
+    }
+}
