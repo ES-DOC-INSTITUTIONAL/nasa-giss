@@ -22,6 +22,35 @@
             "publish": "off"
         }
     }, 
+    "giss-e2-1-g-cc": {
+        "toplevel": {
+            "publish": "off"
+        }, 
+        "aerosol": {
+            "publish": "off"
+        }, 
+        "atmos": {
+            "publish": "off"
+        }, 
+        "atmoschem": {
+            "publish": "off"
+        }, 
+        "land": {
+            "publish": "off"
+        }, 
+        "landice": {
+            "publish": "off"
+        }, 
+        "ocean": {
+            "publish": "off"
+        }, 
+        "ocnbgchem": {
+            "publish": "off"
+        }, 
+        "seaice": {
+            "publish": "off"
+        }
+    }, 
     "giss-e2-1-h": {
         "toplevel": {
             "publish": "off"
@@ -45,7 +74,7 @@
             "publish": "off"
         }
     }, 
-    "giss-e2-1-ma-g": {
+    "giss-e2-2-g": {
         "toplevel": {
             "publish": "off"
         }, 
@@ -59,6 +88,9 @@
             "publish": "off"
         }, 
         "land": {
+            "publish": "off"
+        }, 
+        "landice": {
             "publish": "off"
         }, 
         "ocean": {
