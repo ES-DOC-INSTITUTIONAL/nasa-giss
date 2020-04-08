@@ -1,0 +1,8 @@
+{
+    "mipEra": "cmip6", 
+    "institute": "nasa-giss", 
+    "seedingSource": "Spreadsheet", 
+    "sourceID": "giss-e3-g", 
+    "topic": "land", 
+    "content": {}
+}
